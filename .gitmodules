@@ -1,0 +1,12 @@
+[submodule "ecommerce_api_gateway"]
+	path = ecommerce_api_gateway
+	url = git@github.com:AbdulahadAbduqahhorov/ecommerce_api_gateway.git
+[submodule "ecommerce_catalog_service"]
+	path = ecommerce_catalog_service
+	url = git@github.com:AbdulahadAbduqahhorov/ecommerce_catalog_service.git
+[submodule "ecommerce_order_service"]
+	path = ecommerce_order_service
+	url = git@github.com:AbdulahadAbduqahhorov/ecommerce_order_service.git
+[submodule "ecommerce_auth_service"]
+	path = ecommerce_auth_service
+	url = git@github.com:AbdulahadAbduqahhorov/ecommerce_auth_service.git
